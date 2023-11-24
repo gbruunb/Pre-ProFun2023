@@ -1,0 +1,13 @@
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (1,'Pinocchio','Ben Sharpsteen','Animated musical fantasy',7.3,88,'Ted Sears',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (2,'Mary Poppins','Robert Stevenson','Live-action musical fantasy',7.8,140,'Bill Walsh',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (3,'Beauty and the Beast (2017)','Bill Condon','Live-action musical fantasy',7.1,91,'Linda Woolverton',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (4,'Aladdin','Guy Ritchie','Animated musical fantasy',8,92,'Ron Clements',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (5,'Toy Story','John Lasseter','Animated comedy-drama',8.3,81,'Joss Whedonen',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (6,'Mulan','Tony Bancroft','Animated musical action-drama',7.6,88,'Rita Hsiao',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (7,'Frozen 2','Chris Buck','Animated musical fantasy',6.9,103,'Jennifer Lee',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (8,'Frozen','Chris Buck','Animated musical fantasy',7.5,102,'Jennifer Lee',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (9,'Moana','Ron Clements','Animated musical adventure-fantasy',7.6,107,'Aaron Kandell',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (10,'Winnie the Pooh','Stephen J. Anderson','Animated musical comedy-drama',7.4,64,'Brian Swenlin',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (11,'Peter Pan','Wilfred Jackson, Hamilton Luske','Animated musical adventure fantasy',7.7,76,'Milt Banta',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (12,'The Lion King','Rob Minkoff','Animated musical comedy-drama',8.5,89,'Irene Mecchi',9);
+INSERT INTO MOVIE (MovieId, Title, Director, Genre, Rating, Duration, Writer, LicensorID) VALUES (13,'Mary Poppins Returns','Rob Marshall','Live-action musical fantasy',6.5,130,'David Magee',9);

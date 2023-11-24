@@ -1,0 +1,18 @@
+INSERT ALL
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (34, TO_DATE('2023/11/02 13:50', 'yyyy/mm/dd hh24:mi'), 'English', 30, 1)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (35, TO_DATE('2023/11/02 12:45', 'yyyy/mm/dd hh24:mi'), 'Thai', 30, 2)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (36, TO_DATE('2023/11/02 15:00', 'yyyy/mm/dd hh24:mi'), 'English', 31, 2)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (37, TO_DATE('2023/11/02 16:00', 'yyyy/mm/dd hh24:mi'), 'English', 31, 7)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (38, TO_DATE('2023/11/03 13:50', 'yyyy/mm/dd hh24:mi'), 'Thai', 32, 6)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (39, TO_DATE('2023/11/03 12:45', 'yyyy/mm/dd hh24:mi'), 'English', 33, 6)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (40, TO_DATE('2023/11/04 15:00', 'yyyy/mm/dd hh24:mi'), 'Thai', 34, 6)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (41, TO_DATE('2023/11/04 16:00', 'yyyy/mm/dd hh24:mi'), 'English', 34, 5)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (42, TO_DATE('2023/11/04 13:50', 'yyyy/mm/dd hh24:mi'), 'English', 35, 1)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (43, TO_DATE('2023/11/04 21:45', 'yyyy/mm/dd hh24:mi'), 'Thai', 35, 5)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (44, TO_DATE('2023/11/05 15:00', 'yyyy/mm/dd hh24:mi'), 'English', 36, 6)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (45, TO_DATE('2023/11/05 16:00', 'yyyy/mm/dd hh24:mi'), 'English', 37, 7)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (46, TO_DATE('2023/11/06 13:50', 'yyyy/mm/dd hh24:mi'), 'Thai', 38, 1)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (47, TO_DATE('2023/11/06 13:45', 'yyyy/mm/dd hh24:mi'), 'English', 38, 3)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (48, TO_DATE('2023/11/06 14:00', 'yyyy/mm/dd hh24:mi'), 'Thai', 39, 6)
+	INTO SHOWTIME (ShowtimeID, Datetime, Lang, MovieId, TheaterID) VALUES (49, TO_DATE('2023/11/06 16:00', 'yyyy/mm/dd hh24:mi'), 'English', 40, 7)
+SELECT * FROM dual;
